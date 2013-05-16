@@ -17,6 +17,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+#import "NIToolbarPhotoViewController.h"
+
 /**
  * A network-based photo album view controller.
  *
